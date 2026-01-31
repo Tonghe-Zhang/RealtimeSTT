@@ -1,6 +1,5 @@
 import pyaudio
 import audioop
-import sys
 
 try:
     p = pyaudio.PyAudio()
